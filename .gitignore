@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Env / secrets (this boilerplate ships a dev .quartenv on purpose;
+# ignore any local override you don't want committed)
+.env
+.quartenv.local
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
