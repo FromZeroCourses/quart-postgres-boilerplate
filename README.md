@@ -4,12 +4,12 @@ A minimal, production-shaped starting point for building **async** web apps with
 [Quart](https://quart.palletsprojects.com/) and **PostgreSQL** — fully containerized with
 Docker, so there's nothing to install on your host.
 
-> 📚 **Part of the [FromZero](https://github.com/FromZeroCourses) course _From Flask to Quart_.**
+> 📚 **Part of the FromZero course [_From Flask to Quart_](https://github.com/FromZeroCourses/from-flask-to-quart-course).**
 > This is the finished application you build in Chapter 4 (*A Quart Database Counter*) — kept
 > here as a standalone boilerplate you can clone or fork to start your own Quart + Postgres
 > projects.
 >
-> **Course materials:** [`from-flask-to-quart-course`](https://github.com/FromZeroCourses/from-flask-to-quart-course)
+> **Course materials & source:** [`from-flask-to-quart-course`](https://github.com/FromZeroCourses/from-flask-to-quart-course)
 > *(a dedicated course website is coming — this link will point there once it's live).*
 
 ## What's inside
@@ -109,5 +109,5 @@ To start a new project from this skeleton:
 
 ## License
 
-Provided as course material for _From Flask to Quart_ by [FromZero](https://github.com/FromZeroCourses).
+Provided as course material for [_From Flask to Quart_](https://github.com/FromZeroCourses/from-flask-to-quart-course).
 Use it freely as a starting point for your own projects.
